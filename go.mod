@@ -1,4 +1,4 @@
-module github.com/pingcap/tidb
+module github.com/purplefox/tidb
 
 require (
 	github.com/BurntSushi/toml v0.3.1
